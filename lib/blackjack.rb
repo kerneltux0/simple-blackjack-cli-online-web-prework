@@ -56,5 +56,4 @@ def runner
     prompt_user
     hit?
     end_game(card_total)
-  end  
-end
+  end
